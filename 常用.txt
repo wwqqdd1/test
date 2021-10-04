@@ -1,0 +1,8 @@
+        /** 声明接收返回值的变量
+         * .var
+         */
+        //personClass4.getFields().var
+
+
+构建树的网站：https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
